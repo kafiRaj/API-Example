@@ -26,6 +26,7 @@
 
         >
 
+
         <TextView
             android:id="@+id/nameId"
             android:layout_width="wrap_content"
